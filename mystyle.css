@@ -1,0 +1,15 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-image: url(image/bem2019.jpg);
+}
+		
+h1 {
+	color: #58db8c;
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+	margin: 0px 130px;
+	background-color: white;
+}
